@@ -17,7 +17,7 @@ SVG export functionality is a paid for feature in Plotly. However, as the plots 
 3. Add the relevant info from SVG 2 into SVG 1
 4. Return merged SVG
 
-See [./svgExport.js](.svgExport.js) for implementation.
+See [./svgExport.js](svgExport.js) for implementation.
 
 
 
