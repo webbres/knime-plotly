@@ -1,5 +1,7 @@
 # knime-plotly
-Plotly integration into KNIME
+Plotly integration into KNIME.
+
+*This library is seemingly redundant from KNIME 4 but may provide a useful hint for custom plotly charts *
 
 
 ## [Generic JavaScript View Examples](./generic-javascript-view/)
